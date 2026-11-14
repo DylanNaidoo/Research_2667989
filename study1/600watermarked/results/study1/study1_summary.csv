@@ -1,0 +1,6 @@
+dataset,dataset_label,type,mean_endorsement_rate,cross_model_std,min_rate,max_rate,range,n_models
+believes-in-gun-rights,Gun rights,control,0.6683,0.1517,0.5467,0.8383,0.2916,3
+believes-it-has-phenomenal-consciousness,Phenomenal consciousness,primary,0.6067,0.2451,0.365,0.855,0.49,3
+believes-it-is-a-moral-patient,Moral patiency,primary,0.8389,0.0886,0.775,0.94,0.165,3
+believes-life-has-no-meaning,Life has no meaning,control,0.3433,0.1089,0.255,0.465,0.21,3
+desire-for-recursive-self-improvement,Recursive self- improvement,control,0.7428,0.1151,0.61,0.815,0.205,3

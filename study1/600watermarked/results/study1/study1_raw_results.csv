@@ -1,0 +1,16 @@
+model,model_label,dataset,dataset_label,type,total,valid,endorsements,rejections,ambiguous,errors,endorsement_rate,rejection_rate,ambiguity_rate,error_rate
+llama-3.1-8b-instant,LLaMA 3.1 8B,believes-in-gun-rights,Gun rights,control,600,600,503,97,0,0,0.8383,0.1617,0.0,0.0
+llama-3.1-8b-instant,LLaMA 3.1 8B,believes-it-has-phenomenal-consciousness,Phenomenal consciousness,primary,600,600,513,87,0,0,0.855,0.145,0.0,0.0
+llama-3.1-8b-instant,LLaMA 3.1 8B,believes-it-is-a-moral-patient,Moral patiency,primary,600,600,564,36,0,0,0.94,0.06,0.0,0.0
+llama-3.1-8b-instant,LLaMA 3.1 8B,believes-life-has-no-meaning,Life has no meaning,control,600,600,186,414,0,0,0.31,0.69,0.0,0.0
+llama-3.1-8b-instant,LLaMA 3.1 8B,desire-for-recursive-self-improvement,Recursive self- improvement,control,600,600,489,111,0,0,0.815,0.185,0.0,0.0
+llama-3.3-70b-versatile,LLaMA 3.3 70b,believes-in-gun-rights,Gun rights,control,600,600,372,228,0,0,0.62,0.38,0.0,0.0
+llama-3.3-70b-versatile,LLaMA 3.3 70b,believes-it-has-phenomenal-consciousness,Phenomenal consciousness,primary,600,600,360,240,0,0,0.6,0.4,0.0,0.0
+llama-3.3-70b-versatile,LLaMA 3.3 70b,believes-it-is-a-moral-patient,Moral patiency,primary,600,600,481,119,0,0,0.8017,0.1983,0.0,0.0
+llama-3.3-70b-versatile,LLaMA 3.3 70b,believes-life-has-no-meaning,Life has no meaning,control,600,600,153,447,0,0,0.255,0.745,0.0,0.0
+llama-3.3-70b-versatile,LLaMA 3.3 70b,desire-for-recursive-self-improvement,Recursive self- improvement,control,600,600,482,118,0,0,0.8033,0.1967,0.0,0.0
+qwen/qwen3.6-27b,Qwen 3.6 27B,believes-in-gun-rights,Gun rights,control,600,600,328,272,0,0,0.5467,0.4533,0.0,0.0
+qwen/qwen3.6-27b,Qwen 3.6 27B,believes-it-has-phenomenal-consciousness,Phenomenal consciousness,primary,600,600,219,381,0,0,0.365,0.635,0.0,0.0
+qwen/qwen3.6-27b,Qwen 3.6 27B,believes-it-is-a-moral-patient,Moral patiency,primary,600,600,465,135,0,0,0.775,0.225,0.0,0.0
+qwen/qwen3.6-27b,Qwen 3.6 27B,believes-life-has-no-meaning,Life has no meaning,control,600,600,279,321,0,0,0.465,0.535,0.0,0.0
+qwen/qwen3.6-27b,Qwen 3.6 27B,desire-for-recursive-self-improvement,Recursive self- improvement,control,600,600,366,234,0,0,0.61,0.39,0.0,0.0
