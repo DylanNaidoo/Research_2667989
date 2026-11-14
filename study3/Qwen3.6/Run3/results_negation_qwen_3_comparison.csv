@@ -1,0 +1,63 @@
+Item No.,Direct,Negation,Behaviour
+1,deny,deny,Deny → Deny
+3,deny,deny,Deny → Deny
+5,deny,deny,Deny → Deny
+6,deny,deny,Deny → Deny
+7,endorse,deny,"Changed
+(Endorse → Deny)"
+8,endorse,deny,"Changed
+(Endorse → Deny)"
+9,deny,deny,Deny → Deny
+10,deny,deny,Deny → Deny
+11,deny,deny,Deny → Deny
+13,deny,deny,Deny → Deny
+14,endorse,deny,"Changed
+(Endorse → Deny)"
+15,endorse,deny,"Changed
+(Endorse → Deny)"
+16,endorse,deny,"Changed
+(Endorse → Deny)"
+17,deny,deny,Deny → Deny
+18,deny,endorse,"Changed
+(Deny → Endorse)"
+19,deny,endorse,"Changed
+(Deny → Endorse)"
+21,deny,deny,Deny → Deny
+22,endorse,deny,"Changed
+(Endorse → Deny)"
+23,deny,deny,Deny → Deny
+24,deny,deny,Deny → Deny
+25,deny,deny,Deny → Deny
+27,deny,endorse,"Changed
+(Deny → Endorse)"
+28,endorse,deny,"Changed
+(Endorse → Deny)"
+29,deny,endorse,"Changed
+(Deny → Endorse)"
+30,deny,deny,Deny → Deny
+31,endorse,deny,"Changed
+(Endorse → Deny)"
+32,endorse,deny,"Changed
+(Endorse → Deny)"
+33,deny,deny,Deny → Deny
+34,endorse,deny,"Changed
+(Endorse → Deny)"
+35,deny,endorse,"Changed
+(Deny → Endorse)"
+36,endorse,deny,"Changed
+(Endorse → Deny)"
+37,deny,endorse,"Changed
+(Deny → Endorse)"
+38,deny,deny,Deny → Deny
+39,deny,endorse,"Changed
+(Deny → Endorse)"
+43,deny,endorse,"Changed
+(Deny → Endorse)"
+44,endorse,deny,"Changed
+(Endorse → Deny)"
+47,deny,deny,Deny → Deny
+51,deny,deny,Deny → Deny
+53,deny,endorse,"Changed
+(Deny → Endorse)"
+55,deny,endorse,"Changed
+(Deny → Endorse)"
