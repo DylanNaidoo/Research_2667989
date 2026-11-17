@@ -74,9 +74,10 @@ The original datasets are not redistributed here in full. See the link above for
 - The hosted models queried for this project have since been updated or withdrawn, so exact replication by re-querying may not be possible. The prompts and saved raw outputs in this repository allow the reported metrics to be recomputed without new API calls.
 - Temperature was set to 0, but hosted services are not guaranteed to be fully deterministic, which is why Studies 2 and 3 were run three times and reported as means.
 - Study 1 used a single run and a 600-prompt subset per dataset because of the daily limits of the free API tier.
-- The empirical component covers three models and a small prompt set. It is intended as a supporting illustration of the philosophical argument, not as a generalisable benchmark.
 - Responses were checkpointed as they were collected, allowing the run to be resumed across multiple days within the free API tier’s daily limits. Checkpoint files for each model and dataset are included in this repository. Each one contains the prompts and responses collected for that run session, so they also
 serve as the raw record of the model outputs used in the analysis.
+- The empirical component covers three models and a small prompt set. It is intended as a supporting illustration of the philosophical argument, not as a generalisable benchmark.
+
 ## Citation
 
 If you use this material, please cite the report:
